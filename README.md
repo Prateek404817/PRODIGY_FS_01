@@ -138,8 +138,14 @@ password VARCHAR(255)
 # 📸 Project Pages
 
 * Login Page
+  <img width="1919" height="899" alt="Screenshot 2026-05-23 204533" src="https://github.com/user-attachments/assets/01354ee9-bc8f-4358-95f3-409cbb2bfd1d" />
+
 * Register Page
+  <img width="1919" height="911" alt="Screenshot 2026-05-23 204739" src="https://github.com/user-attachments/assets/054cf593-4067-47fb-9d4e-6b8ccb562249" />
+
 * Dashboard Page
+  <img width="1919" height="897" alt="Screenshot 2026-05-23 204712" src="https://github.com/user-attachments/assets/f46f2d2f-623a-480d-a226-60e197d6deb3" />
+
 
 ---
 
